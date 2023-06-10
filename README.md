@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kvar774
+- 👋 Hi, I’m Kompella Venkata Aditya Ram (@kvar774)
 - 👀 I’m interested in Web Development and Python Proramming
 - 🌱 I’m currently learning all the sources of Python.
 - 💞️ I’m looking to collaborate on Script and Programming Languages Internships.
